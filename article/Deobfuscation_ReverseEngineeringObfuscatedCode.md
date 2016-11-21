@@ -63,6 +63,14 @@ EX) .NETの"Dotfuscator"
 Dotfuscatorのようなリネームの殆どの効果は、言語のスコープ規則から名前参照を解決する
 パーサーをただ使えば良い.
 
+deep obfuscationは実際の構造を変更する.
+意味的側面について推論が必要なので、surfaceより対処が難しい
+
+Chenxi Wangの論文の3つの制御フロー難読化技術について
+Cloakwareの商用ソフトでも重要なコンポーネントになっている
+
+### basic control flow flattening
+
 
 
 

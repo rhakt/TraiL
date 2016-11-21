@@ -92,3 +92,7 @@
 **disguise**
 
 隠す,  偽装する
+
+**intuitively**
+
+直感的に
