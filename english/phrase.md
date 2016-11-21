@@ -60,3 +60,35 @@
 **thereby**
 
 それによって, それに関して
+
+**cope with**
+
+対処する
+
+**neutralize**
+
+無効化する
+
+**distinguish**
+
+識別する, 特徴となる
+
+**broad**
+
+一般の, 広い
+
+**former**
+
+前者
+
+**semantic**
+
+意味の
+
+**accordingly**
+
+それに応じて, したがって
+
+**disguise**
+
+隠す,  偽装する
