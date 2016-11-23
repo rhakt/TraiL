@@ -96,3 +96,55 @@
 **intuitively**
 
 直感的に
+
+**predecessor**
+
+前任者, 前のもの
+
+**correspond**
+
+対応する, 一致する
+
+**denote**
+
+表示する, 示す
+
+**appropriate**
+
+適切な
+
+**deduce**
+
+推測する
+
+**hence**
+
+故に, 今後
+
+**spurious**
+
+偽の
+
+**bogus**
+
+偽の
+
+**judiciously**
+
+賢明に
+
+**exacerbate**
+
+悪化させる
+
+**infer**
+
+推論する
+
+**feasibility**
+
+実行できること, 可能性
+
+**constraint**
+
+制約

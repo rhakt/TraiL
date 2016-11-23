@@ -72,13 +72,31 @@ Cloakwareの商用ソフトでも重要なコンポーネントになってい�
 ### basic control flow flattening
 
 
-
-
 ## Deobfuscation
+
+難読化コードに対する有用な変換
+
+### cloning
+
+spurious pathの除去
+順方向は逆方向は汚染が消せない.
+明らかにコードが増える.
+何がspuriousなのかという事前知識なしでできるべき.
+
+クローンするノードの基準は
+
+### static path feasibility analysis
+
+### static and dynamic
 
 ## Experimental Evaluation
 
+
+
 ## Related Work
+
+難読化コードのリバースエンジニアリングの先行研究は知らない.
+リバースエンジニアの支援と、コード難読化手法の長所と短所の評価という2つの目的
 
 ## Conclusions
 
