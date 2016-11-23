@@ -148,3 +148,11 @@
 **constraint**
 
 制約
+
+**inadequate**
+
+不十分な
+
+**parenthetical**
+
+限定する, 説明する
