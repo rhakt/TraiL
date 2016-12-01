@@ -156,3 +156,15 @@
 **parenthetical**
 
 限定する, 説明する
+
+**derive**
+
+引き出す, 由来する
+
+**impediment**
+
+妨害
+
+**assess**
+
+評価する, 査定
