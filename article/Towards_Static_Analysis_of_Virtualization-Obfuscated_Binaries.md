@@ -36,13 +36,19 @@ JAKSTAB static analyzer
 
 ### Virtualization Obfuscation
 
+オペコードとバイトコード命令の対応をランダムにする.
+関数を分解なり、併合するなりしているわけだから、解析とかパターンマッチングで取れなくもない.
 
+- CodeVirtualizer
+- VMProtect
 
 ### Static Analysis
 
-
+記号 <- 不明
 
 ## Static Analysis of Interpreted Code
+
+
 
 ## VPC-Sensitive Static Analysis
 
