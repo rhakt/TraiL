@@ -48,9 +48,11 @@ JAKSTAB static analyzer
 
 ## Static Analysis of Interpreted Code
 
-
+location-sensitiveだけでなく、VPC-sensitiveが必要
 
 ## VPC-Sensitive Static Analysis
+
+
 
 ## Lifting Bounded Address Tracking
 
